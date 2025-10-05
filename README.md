@@ -5,3 +5,5 @@
 [Postman Test run](https://github.com/konevaas/api/blob/main/DemoShopping.postman_test_run.json)
 
 [Коллекция CountryInfoService в Postman](https://www.postman.com/abbb22/workspace/my-workspace/collection/19594112-6c861b73-d24c-4be2-91b5-ea9223dec20a?action=share&creator=19594112&active-environment=19594112-dea75144-2e84-4857-8bb0-daabbbe98253)
+
+[Тест-кейсы для API](https://github.com/konevaas/api/blob/main/G101-2025-10-05.pdf)
